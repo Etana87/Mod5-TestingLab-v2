@@ -1,2 +1,2 @@
-# bootcamp-js-06-imports-v2
+# Módulo 5: Testing v2
  
